@@ -16,4 +16,4 @@ spec:
         - name: nodejs-demo
           image: <your-image-name> # e.g., image-registry.openshift-image-registry.svc:5000/myproject/nodejs-demo
           ports:
-            - containerPort: 8080ß
+            - containerPort: 8080
